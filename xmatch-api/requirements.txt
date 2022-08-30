@@ -1,0 +1,12 @@
+fastapi==0.77.1
+gunicorn==20.0.4
+numpy==1.22.3
+pandas==1.4.1
+pymongo==4.0.2
+pyspark==3.2.1
+python-multipart==0.0.5
+quantities==0.13.0
+requests==2.22.0
+starlette==0.19.1
+uvicorn==0.17.6
+

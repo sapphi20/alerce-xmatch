@@ -1,0 +1,4 @@
+__pycache__/
+
+# don't upload your config file with sensitive data please!
+config.json
